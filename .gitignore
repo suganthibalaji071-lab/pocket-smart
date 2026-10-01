@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.playwright/
+media/*.webm
+uploads/
+*.log
+.DS_Store
+Unselected files/
